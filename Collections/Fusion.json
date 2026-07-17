@@ -15,6 +15,23 @@
         "payload": {
           "items": [
             {
+              "id": "9bdbeebc-a088-4cee-bb88-da0294ef3b53",
+              "title": "Watchlist",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://xperience-app.com/manifest/69b4d970-8486-4961-895d-4e36abd74553/eyJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI2OWI0ZDk3MC04NDg2LTQ5NjEtODk1ZC00ZTM2YWJkNzQ1NTMiLCJraWQiOiIyMGE0YmI5MC00MmU2LTQ5ZDctOWJkYi1hZmQ2MzdlODY0MzUiLCJzY29wZSI6Im1hbmlmZXN0Iiwic3ViIjoiYTNmZDZhNmItN2I1Yy00NjI1LWExZmUtOTJkYmYwNmY2YjczIiwiaWF0IjoxNzg0MTMzODk1fQ.5nsNGcL-v3s2J516U_kA6uqBvizhg3U6mIX8pgUVZGE/manifest.json",
+                    "catalogId": "movie::themed_quick_watches",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://github.com/hakimrou34/SL/blob/main/img/watchlist.webp?raw=true"
+            },
+            {
               "id": "270cad89-5fda-47c7-94a1-bef8d5aaf628",
               "title": "Trending Series",
               "hideTitle": false,
